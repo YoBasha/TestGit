@@ -1,2 +1,1 @@
-Some random text file that has nothing to do, but waste your time :P
-another line
+this should be visible in branch v2 only
